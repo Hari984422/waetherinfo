@@ -1,0 +1,8 @@
+https://open-weather13.p.rapidapi.com/city/landon
+{
+    method: "GET",
+    headers: {
+        'X-RapidAPI-Key': '228955870bmshb438f55093d3ce7p1e7598jsn3bad3a128753',
+        'X-RapidAPI-Host': 'open-weather13.p.rapidapi.com'
+      }
+}
